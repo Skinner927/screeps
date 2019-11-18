@@ -1,0 +1,19 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.148",
+    "@types/screeps": "^2.5.5",
+    "gulp": "^4.0.2",
+    "gulp-batch": "^1.0.5",
+    "gulp-screeps": "^1.0.8",
+    "gulp-watch": "^5.0.1"
+  }
+}
